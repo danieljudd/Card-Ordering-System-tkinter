@@ -10,3 +10,5 @@ Requirements:
 libraries (external):
 - pyodbc
 - pillow
+
+See the user manual for a preview
